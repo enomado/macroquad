@@ -4,6 +4,8 @@
 
 `macroquad` attempts to avoid any rust-specific programming concepts like lifetimes/borrowing, making it very friendly for rust beginners.
 
+[Wasm Demo](https://not-fl3.github.io/miniquad-samples/ui.html)
+
 ## Supported platforms
 
 * PC: Windows/Linux/MacOs
